@@ -1,8 +1,8 @@
-# my-first-test-repo
+# my-second
 
 テスト用のリポジトリです．
 
 - 最初のコミットを実行します．
 - featureブランチで追加します．
-- add
+- add1
 
